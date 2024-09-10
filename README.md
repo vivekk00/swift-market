@@ -23,3 +23,13 @@ bullet points:
 code snippets
 ```
 print ('hello world')
+
+```
+---
+Tables
+|ID|Name|
+|---|---|
+|1|Vivek|
+|2|Dhami|
+
+
